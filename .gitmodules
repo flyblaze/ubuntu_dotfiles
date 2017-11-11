@@ -4,3 +4,6 @@
 [submodule "bundle/airline.git"]
 	path = bundle/airline.git
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "bundle/nerdtree.git"]
+	path = bundle/nerdtree.git
+	url = https://github.com/scrooloose/nerdtree.git
