@@ -4,6 +4,11 @@ filetype plugin indent on
 
 command! Status echo "All systems go!"
 
+let g:airline_theme='base16'
+
+
+map <C-n> :NERDTreeToggle<CR>
+
 nmap di, f,dT,
 nmap ci, f,cT,
 imap <leader>' ''<ESC>i

@@ -10,3 +10,6 @@
 [submodule "bundle/vim-airline-themes.git"]
 	path = bundle/vim-airline-themes.git
 	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "bundle/badwolf.git"]
+	path = bundle/badwolf.git
+	url = https://github.com/sjl/badwolf.git
