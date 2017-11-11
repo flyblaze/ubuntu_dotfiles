@@ -2,6 +2,8 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
+command! Status echo "All systems go!"
+
 nmap di, f,dT,
 nmap ci, f,cT,
 imap <leader>' ''<ESC>i
