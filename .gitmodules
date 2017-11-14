@@ -25,3 +25,6 @@
 [submodule "bundle/syntastic.git"]
 	path = bundle/syntastic.git
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "bundle/supertab.git"]
+	path = bundle/supertab.git
+	url = https://github.com/ervandew/supertab.git
