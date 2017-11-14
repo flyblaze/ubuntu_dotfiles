@@ -19,3 +19,6 @@
 [submodule "bundle/vim-bufferline.git"]
 	path = bundle/vim-bufferline.git
 	url = https://github.com/bling/vim-bufferline.git
+[submodule "bundle/auto-pairs.git"]
+	path = bundle/auto-pairs.git
+	url = https://github.com/jiangmiao/auto-pairs.git
