@@ -6,13 +6,16 @@ filetype plugin indent on
 
 command! Status echo "All systems go!"
 
+"let g:airline_theme='luna'
+"let g:airline_theme='powerlineish'
 let g:airline_theme='badwolf'
+"let g:airline_theme='solarized'
 let g:airline_powerline_fonts=1
-let g:airline_solarized_bg='dark'
+"let g:airline_solarized_bg='dark'
 map <C-n> :NERDTreeToggle<CR>
 
-set background=dark
-colorscheme solarized
+"set background=dark
+"colorscheme solarized
 
 nmap di, f,dT,
 nmap ci, f,cT,
