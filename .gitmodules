@@ -13,3 +13,6 @@
 [submodule "bundle/badwolf.git"]
 	path = bundle/badwolf.git
 	url = https://github.com/sjl/badwolf.git
+[submodule "bundle/vim-colors-solarized.git"]
+	path = bundle/vim-colors-solarized.git
+	url = https://github.com/altercation/vim-colors-solarized.git

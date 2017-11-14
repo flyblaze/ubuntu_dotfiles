@@ -1,13 +1,18 @@
 execute pathogen#infect()
 syntax on
+set relativenumber
+
 filetype plugin indent on
 
 command! Status echo "All systems go!"
 
-let g:airline_theme='base16'
-
-
+let g:airline_theme='badwolf'
+let g:airline_powerline_fonts=1
+let g:airline_solarized_bg='dark'
 map <C-n> :NERDTreeToggle<CR>
+
+set background=dark
+colorscheme solarized
 
 nmap di, f,dT,
 nmap ci, f,cT,
