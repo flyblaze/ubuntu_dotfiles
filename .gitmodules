@@ -22,3 +22,6 @@
 [submodule "bundle/auto-pairs.git"]
 	path = bundle/auto-pairs.git
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "bundle/syntastic.git"]
+	path = bundle/syntastic.git
+	url = https://github.com/vim-syntastic/syntastic.git
